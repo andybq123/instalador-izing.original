@@ -1,0 +1,14 @@
+deploy_password=AKwWM4Qu2GRppJ7
+mysql_root_password=AKwWM4Qu2GRppJ7
+db_pass=AKwWM4Qu2GRppJ7
+pg_pass=AKwWM4Qu2GRppJ7
+redis_pass=AKwWM4Qu2GRppJ7
+rabbit_pass=AKwWM4Qu2GRppJ7
+deploy_anderson@chatizy.com.br
+repositorio=https://github.com/andybq123/izing.original.git
+nome_instancia=chatizy
+porta_postgre_intancia=5432
+frontend_url=app.chatizy.com.br
+frontend_porta=4000
+backend_url=cp1.chatizy.com.br
+backend_porta=3000
