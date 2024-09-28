@@ -24,10 +24,10 @@ para evitar erros recomendados atualizar sistema e apos atualizar reniciar para 
 Depois reniciar seguir com a instalacao
 
 cd /root
-git clone https://github.com/cleitonme/izing.instalador.git izinginstalador
+git clone https://github.com/andybq123/instalador-izing.original.git izing
 
-sudo chmod +x ./izinginstalador/izing
-cd ./izinginstalador
+sudo chmod +x ./instalador-izing.original/izing
+cd ./izing
 sudo ./izing
 
 ===================================================
